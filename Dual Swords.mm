@@ -1,0 +1,1492 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node BACKGROUND_COLOR="#ffffff" COLOR="#990000" CREATED="1470572239484" ID="ID_1468713942" MODIFIED="1471385922498" STYLE="bubble" TEXT="Dual Swords">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470572385956" ID="ID_1757565294" MODIFIED="1471385922498" POSITION="right" STYLE="bubble" TEXT="Petrified Daggers">
+<edge COLOR="#808080" STYLE="linear" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754335978" ID="ID_896813069" MODIFIED="1471385922498" STYLE="bubble" TEXT="Petrified Daggers 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754355802" ID="ID_32109648" MODIFIED="1471385922498" STYLE="bubble" TEXT="Petrified Daggers 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754366764" ID="ID_1747540429" MODIFIED="1471385922497" STYLE="bubble" TEXT="Petrified Daggers 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754377453" ID="ID_867135051" MODIFIED="1471385922497" STYLE="bubble" TEXT="Petrified Daggers 5">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754383865" ID="ID_892319889" MODIFIED="1471385922497" STYLE="bubble" TEXT="Petrified Daggers 6">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754389403" ID="ID_1117237978" MODIFIED="1471385922497" STYLE="bubble" TEXT="Petrified Daggers 7">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754396539" ID="ID_1175790632" MODIFIED="1471385922496" STYLE="bubble" TEXT="Scholarly Daggers 8">
+<edge STYLE="linear"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470754449478" ID="ID_658029921" MODIFIED="1471385922496" STYLE="bubble" TEXT="Gelid Mind">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754455248" ID="ID_1774702691" MODIFIED="1471385922496" STYLE="bubble" TEXT="Gelid Mind 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754458857" ID="ID_1845981351" MODIFIED="1471385922496" STYLE="bubble" TEXT="Gelid Soul">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754402756" ID="ID_943101745" MODIFIED="1471385922496" STYLE="bubble" TEXT="Obsidian Daggers">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754409792" ID="ID_1032402901" MODIFIED="1471385922496" STYLE="bubble" TEXT="Obsidian Daggers 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754422750" ID="ID_1463775508" MODIFIED="1471385922495" STYLE="bubble" TEXT="Obsidian Daggers 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754427173" ID="ID_1787370848" MODIFIED="1471385922495" STYLE="bubble" TEXT="Obsidian Daggers 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754431860" ID="ID_1451691384" MODIFIED="1471385922495" STYLE="bubble" TEXT="Obsidian Daggers 5">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754437075" ID="ID_1732400281" MODIFIED="1471385922495" STYLE="bubble" TEXT="Lustrous Permia">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754490421" ID="ID_1020466583" MODIFIED="1471385922495" STYLE="bubble" TEXT="Twin Chainsaws">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754511063" ID="ID_343210197" MODIFIED="1471385922494" STYLE="bubble" TEXT="Twin Chainsaws 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754557560" ID="ID_243655921" MODIFIED="1471385922494" STYLE="bubble" TEXT="Twin Chainsaws 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754561918" ID="ID_481528285" MODIFIED="1471385922494" STYLE="bubble" TEXT="Twin Chainsaws 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754567922" ID="ID_1982730210" MODIFIED="1471385922494" STYLE="bubble" TEXT="Guillotines 5">
+<edge STYLE="linear"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754575652" ID="ID_69670326" MODIFIED="1471385922493" STYLE="bubble" TEXT="Roving Saws 1">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754598950" ID="ID_1018184079" MODIFIED="1471385922493" STYLE="bubble" TEXT="Roving Saws 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754606461" ID="ID_411800713" MODIFIED="1471385922493" STYLE="bubble" TEXT="Golem&apos;s Saws">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754661772" ID="ID_1674763802" MODIFIED="1471385922493" STYLE="bubble" TEXT="Type 51 Macerators">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754670479" ID="ID_1185847296" MODIFIED="1471385922493" STYLE="bubble" TEXT="Type 51 Macerators 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754722128" ID="ID_839528225" MODIFIED="1471385922492" STYLE="bubble" TEXT="Type 51 Macerators 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754726429" ID="ID_293443838" MODIFIED="1471385922492" STYLE="bubble" TEXT="Type 51 Macerators 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754731824" ID="ID_1075650774" MODIFIED="1471385922492" STYLE="bubble" TEXT="Type 51 Macerators 5">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754737752" ID="ID_1420286669" MODIFIED="1471385922492" STYLE="bubble" TEXT="Deathsnarfs">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754752380" ID="ID_1011781719" MODIFIED="1471385922492" STYLE="bubble" TEXT="Insecticutters">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754758553" ID="ID_245336394" MODIFIED="1471385922491" STYLE="bubble" TEXT="Insecticutters 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754768125" ID="ID_1046968901" MODIFIED="1471385922491" STYLE="bubble" TEXT="Insecticutters 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754771575" ID="ID_835271911" MODIFIED="1471385922491" STYLE="bubble" TEXT="Insecticutters 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754775496" ID="ID_451408327" MODIFIED="1471385922491" STYLE="bubble" TEXT="Insecticutters 5">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754779483" ID="ID_806208661" MODIFIED="1471385922491" STYLE="bubble" TEXT="Insectirippers">
+<edge STYLE="linear"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754920302" ID="ID_1835077142" MODIFIED="1471385922490" STYLE="bubble" TEXT="Insectiscythes ">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754926761" ID="ID_856720649" MODIFIED="1471385922490" STYLE="bubble" TEXT="Insecticythes 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754940748" ID="ID_503758416" MODIFIED="1471385922490" STYLE="bubble" TEXT="Alated Insect">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1471261573420" ID="ID_1949490390" MODIFIED="1471385922490" POSITION="right" STYLE="bubble" TEXT="Twin Bolts">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261582940" ID="ID_1908530658" MODIFIED="1471385922490" STYLE="bubble" TEXT="Twin Bolts 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261585214" ID="ID_1238121096" MODIFIED="1471385922489" STYLE="bubble" TEXT="Twin Bolts 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261588130" ID="ID_1011743594" MODIFIED="1471385922489" STYLE="bubble" TEXT="Twin Bolts 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261591116" ID="ID_548831128" MODIFIED="1471385922489" STYLE="bubble" TEXT="Twin Bolts 5">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261594816" ID="ID_117142232" MODIFIED="1471385922489" STYLE="bubble" TEXT="Twin High Bolts">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470754955747" ID="ID_955553562" MODIFIED="1471385922489" POSITION="right" STYLE="bubble" TEXT="Twin Daggers">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754959025" ID="ID_1530127798" MODIFIED="1471385922489" STYLE="bubble" TEXT="Twin Daggers 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754961457" ID="ID_925879382" MODIFIED="1471385922488" STYLE="bubble" TEXT="Twin Daggers 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754964171" ID="ID_574170196" MODIFIED="1471385922488" STYLE="bubble" TEXT="Twin Daggers 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754966856" ID="ID_1210094203" MODIFIED="1471385922488" STYLE="bubble" TEXT="Twin Daggers 5">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754970746" ID="ID_1583715163" MODIFIED="1471385922488" STYLE="bubble" TEXT="Twin Daggers 6">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754977944" ID="ID_1952476871" MODIFIED="1471385922487" STYLE="bubble" TEXT="Twin Daggers 7">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470754983328" ID="ID_625358473" MODIFIED="1471385922487" STYLE="bubble" TEXT="Dual Daggers">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470754996225" ID="ID_1436072772" MODIFIED="1471385922487" STYLE="bubble" TEXT="Hurricane ">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755000452" ID="ID_1197148781" MODIFIED="1471385922487" STYLE="bubble" TEXT="Hurricane 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755008277" ID="ID_1551549855" MODIFIED="1471385922486" STYLE="bubble" TEXT="Hurricane 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755011482" ID="ID_1475855669" MODIFIED="1471385922486" STYLE="bubble" TEXT="Hurricane 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755014240" ID="ID_549708824" MODIFIED="1471385922486" STYLE="bubble" TEXT="Hurricane 5">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755017212" ID="ID_1494045766" MODIFIED="1471385922486" STYLE="bubble" TEXT="Cyclone">
+<edge STYLE="linear"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1471002473446" ID="ID_1185680403" MODIFIED="1471385922485" STYLE="bubble" TEXT="Cleaving Jaws">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002479069" ID="ID_1594644658" MODIFIED="1471385922485" STYLE="bubble" TEXT="Cleaving Jaws 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002491047" ID="ID_951499693" MODIFIED="1471385922485" STYLE="bubble" TEXT="Cleaving Jaws 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002494238" ID="ID_540301987" MODIFIED="1471385922484" STYLE="bubble" TEXT="Breaching Jaws">
+<edge STYLE="linear"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002509483" ID="ID_315186418" MODIFIED="1471385922481" STYLE="bubble" TEXT="Cool Cleaver">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002515167" ID="ID_799145034" MODIFIED="1471385922481" STYLE="bubble" TEXT="Cool Cleavers 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002526511" ID="ID_1311746530" MODIFIED="1471385922480" STYLE="bubble" TEXT="Frozen Cleavers">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1471002614565" ID="ID_1362971841" MODIFIED="1471385922480" STYLE="bubble" TEXT="Zakun Twins">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002619541" ID="ID_710364880" MODIFIED="1471385922480" STYLE="bubble" TEXT="Zakun Twins 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002627230" ID="ID_1776285955" MODIFIED="1471385922480" STYLE="bubble" TEXT="Zakun Twins 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002630484" ID="ID_1946394527" MODIFIED="1471385922480" STYLE="bubble" TEXT="Zakun Twins 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002636023" ID="ID_1971491207" MODIFIED="1471385922479" STYLE="bubble" TEXT="Terrible Twins">
+<edge STYLE="linear"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002667602" ID="ID_1842284314" MODIFIED="1471385922479" STYLE="bubble" TEXT="Seditious Talons">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002673223" ID="ID_334569325" MODIFIED="1471385922479" STYLE="bubble" TEXT="Seditious Talons 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002681735" ID="ID_1898241496" MODIFIED="1471385922479" STYLE="bubble" TEXT="Serre Sedition">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002547763" ID="ID_1665988903" MODIFIED="1471385922479" STYLE="bubble" TEXT="Dios Slicers">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002556819" ID="ID_1030671707" MODIFIED="1471385922478" STYLE="bubble" TEXT="Dios Slicers 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002561545" ID="ID_1309551028" MODIFIED="1471385922478" STYLE="bubble" TEXT="Dios Slicers 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002565264" ID="ID_1453328414" MODIFIED="1471385922478" STYLE="bubble" TEXT="Dios Slicers 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002569350" ID="ID_870358827" MODIFIED="1471385922478" STYLE="bubble" TEXT="Explosive Slicers">
+<edge STYLE="linear"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002582159" ID="ID_1458588904" MODIFIED="1471385922477" STYLE="bubble" TEXT="Demolition Blades">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002588486" ID="ID_657091821" MODIFIED="1471385922477" STYLE="bubble" TEXT="Demolition Blades 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002598337" ID="ID_1927457152" MODIFIED="1471385922477" STYLE="bubble" TEXT="Spectral Demolisher">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1471002544033" ID="ID_1537482111" MODIFIED="1471385922477" STYLE="bubble" TEXT="Dual Hatchets">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002700074" ID="ID_229508412" MODIFIED="1471385922477" STYLE="bubble" TEXT="Dual Hatchets 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002708048" ID="ID_1820998100" MODIFIED="1471385922476" STYLE="bubble" TEXT="Dual Hatchets 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002711677" ID="ID_930340562" MODIFIED="1471385922476" STYLE="bubble" TEXT="Dual Hatchets 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002717270" ID="ID_1226341310" MODIFIED="1471385922476" STYLE="bubble" TEXT="Dual Cleavers+">
+<edge STYLE="linear"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002728641" ID="ID_1657736743" MODIFIED="1471385922476" STYLE="bubble" TEXT="Tornado Hatchets">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002735116" ID="ID_967607470" MODIFIED="1471385922476" STYLE="bubble" TEXT="Tornado Hatchets 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002742181" ID="ID_1241898820" MODIFIED="1471385922475" STYLE="bubble" TEXT="Typhoon">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002790027" ID="ID_1227695408" MODIFIED="1471385922475" STYLE="bubble" TEXT="Usurper&apos;s Fulgur">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002798319" ID="ID_708185534" MODIFIED="1471385922475" STYLE="bubble" TEXT="Usurper&apos;s Fulgur 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002808374" ID="ID_661773691" MODIFIED="1471385922475" STYLE="bubble" TEXT="Usurper&apos;s Fulgur 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002815382" ID="ID_1980935736" MODIFIED="1471385922475" STYLE="bubble" TEXT="Despot&apos;s Blitz">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002754952" ID="ID_154315670" MODIFIED="1471385922474" STYLE="bubble" TEXT="Rex Slicers">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002760027" ID="ID_1641353485" MODIFIED="1471385922474" STYLE="bubble" TEXT="Rex Slicers 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002766502" ID="ID_1445655167" MODIFIED="1471385922474" STYLE="bubble" TEXT="Rex Slicers 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002769927" ID="ID_594140308" MODIFIED="1471385922474" STYLE="bubble" TEXT="Tigrex Claws">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002829440" ID="ID_667323687" MODIFIED="1471385922473" STYLE="bubble" TEXT="Sworn Rapiers">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002833984" ID="ID_1241755340" MODIFIED="1471385922473" STYLE="bubble" TEXT="Sworn Rapiers 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002842664" ID="ID_1284409840" MODIFIED="1471385922473" STYLE="bubble" TEXT="Sworn Rapiers 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002845663" ID="ID_1361292104" MODIFIED="1471385922473" STYLE="bubble" TEXT="Sworn Rapiers 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002850057" ID="ID_1822348727" MODIFIED="1471385922473" STYLE="bubble" TEXT="Holy Sabers 5">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1471002875678" ID="ID_99355811" MODIFIED="1471385922472" STYLE="bubble" TEXT="Dual Piercers">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#99ff33" CREATED="1471002882374" ID="ID_188912438" MODIFIED="1471719004387" STYLE="bubble" TEXT="Dual Piercers 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#99ff33" CREATED="1471002891272" ID="ID_1367076354" MODIFIED="1471719026217" STYLE="bubble" TEXT="Dual Piercers 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002897758" ID="ID_1374840911" MODIFIED="1471385922472" STYLE="bubble" TEXT="Dual Piercers 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002911656" ID="ID_1515917103" MODIFIED="1471385922472" STYLE="bubble" TEXT="Dual Piercers 5">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002915367" ID="ID_1178394161" MODIFIED="1471385922471" STYLE="bubble" TEXT="Dual Piercers 5">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471002920830" ID="ID_649334793" MODIFIED="1471385922471" STYLE="bubble" TEXT="Maccao Piercers 6">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471260795373" ID="ID_672655193" MODIFIED="1471385922471" STYLE="bubble" TEXT="Flamestorm">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471260800414" ID="ID_214218813" MODIFIED="1471385922471" STYLE="bubble" TEXT="Flamestorm 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471260806493" ID="ID_413596964" MODIFIED="1471385922471" STYLE="bubble" TEXT="Salamanders">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471260814686" ID="ID_1917640555" MODIFIED="1471385922470" STYLE="bubble" TEXT="Rouge Flames">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471260820495" ID="ID_990405648" MODIFIED="1471385922470" STYLE="bubble" TEXT="Rouge Flames 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471260829075" ID="ID_1739275786" MODIFIED="1471385922470" STYLE="bubble" TEXT="Rouge Flames 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471260835424" ID="ID_715567061" MODIFIED="1471385922470" STYLE="bubble" TEXT="Dual Chameleos">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471260852458" ID="ID_1444265284" MODIFIED="1471385922470" STYLE="bubble" TEXT="Khezu Daggers">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471260858327" ID="ID_1127678239" MODIFIED="1471385922470" STYLE="bubble" TEXT="Khezu Daggers 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471260863411" ID="ID_876557921" MODIFIED="1471385922470" STYLE="bubble" TEXT="Khezu Daggers 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471260869485" ID="ID_893359693" MODIFIED="1471385922470" STYLE="bubble" TEXT="Khezu Daggers 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471260873967" ID="ID_884375854" MODIFIED="1471385922469" STYLE="bubble" TEXT="Khezu Skards">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755100106" ID="ID_1508471774" MODIFIED="1471385922469" POSITION="left" STYLE="bubble" TEXT="Smoldering Cities">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471345413102" ID="ID_1433761021" MODIFIED="1471385922469" STYLE="bubble" TEXT="Smoldering Cities 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471345417590" ID="ID_586950250" MODIFIED="1471385922469" STYLE="bubble" TEXT="Smoldering Cities 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471345422553" ID="ID_1436833125" MODIFIED="1471385922469" STYLE="bubble" TEXT="Smoldering Cities 4">
+<edge STYLE="linear"/>
+<node CREATED="1471345426778" ID="ID_387062226" MODIFIED="1471385922469" STYLE="bubble" TEXT="Smoldering Cities 5">
+<edge STYLE="linear"/>
+<node CREATED="1471345431359" ID="ID_865916033" MODIFIED="1471385922469" STYLE="bubble" TEXT="Smoldering Kingdoms">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755161859" ID="ID_1251575212" MODIFIED="1471385922469" POSITION="left" STYLE="bubble" TEXT="Fledderklauen">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471345462586" ID="ID_1832491947" MODIFIED="1471385922468" STYLE="bubble" TEXT="Fledderklaun 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471382022393" ID="ID_1395562055" MODIFIED="1471385922468" STYLE="bubble" TEXT="Fledderklaun 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471382027927" ID="ID_1229578251" MODIFIED="1471385922468" STYLE="bubble" TEXT="Fledderklauen 4">
+<edge STYLE="linear"/>
+<node CREATED="1471382037797" ID="ID_1534572009" MODIFIED="1471385922468" STYLE="bubble" TEXT="Hungerklauen">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+<node CREATED="1471382046738" ID="ID_781448733" MODIFIED="1471385922468" STYLE="bubble" TEXT="Les Ap&#xf4;tres">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471382059433" ID="ID_1653879371" MODIFIED="1471385922468" STYLE="bubble" TEXT="Les Ap&#xf4;tres">
+<edge STYLE="linear"/>
+<node CREATED="1471382070009" ID="ID_1945259864" MODIFIED="1471385922468" STYLE="bubble" TEXT="Les Ap&#xf4;tres 3">
+<edge STYLE="linear"/>
+<node CREATED="1471382076856" ID="ID_919962974" MODIFIED="1471385922468" STYLE="bubble" TEXT="Les Ap&#xf4;tres 4">
+<edge STYLE="linear"/>
+<node CREATED="1471382085232" ID="ID_410458912" MODIFIED="1471385922467" STYLE="bubble" TEXT="Le Paradis">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755174636" ID="ID_704664317" MODIFIED="1471385922467" POSITION="left" STYLE="bubble" TEXT="Twin Nails">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471382101836" ID="ID_907149269" MODIFIED="1471385922467" STYLE="bubble" TEXT="Twin Nails 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471382104697" ID="ID_1791779495" MODIFIED="1471385922467" STYLE="bubble" TEXT="Twin Nails 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471382108564" ID="ID_108631114" MODIFIED="1471385922467" STYLE="bubble" TEXT="Fire and Ice">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755107619" ID="ID_1347601805" MODIFIED="1471385922467" POSITION="left" STYLE="bubble" TEXT="Bone Scythes">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755678795" ID="ID_1330317905" MODIFIED="1471385922467" STYLE="bubble" TEXT="Bone Scythes 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755689949" ID="ID_1074581892" MODIFIED="1471385922466" STYLE="bubble" TEXT="Bone Scythes 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755694198" ID="ID_291038962" MODIFIED="1471385922466" STYLE="bubble" TEXT="Bone Scythes 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755700026" ID="ID_1762490257" MODIFIED="1471385922466" STYLE="bubble" TEXT="Bone Scythes 5">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755716799" ID="ID_1044594836" MODIFIED="1471385922466" STYLE="bubble" TEXT="Bone Scythes 6">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755722523" ID="ID_977747584" MODIFIED="1471385922466" STYLE="bubble" TEXT="Bone Scythes 7">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755728298" ID="ID_763286561" MODIFIED="1471385922466" STYLE="bubble" TEXT="Chiefs Scythes 8">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755748698" ID="ID_1864271933" MODIFIED="1471385922465" STYLE="bubble" TEXT="Twin Flames 1">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755752111" ID="ID_1425060246" MODIFIED="1471385922465" STYLE="bubble" TEXT="Twin Flames 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755767734" ID="ID_1351837652" MODIFIED="1471385922465" STYLE="bubble" TEXT="Twin Flames 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755770746" ID="ID_1946129031" MODIFIED="1471385922465" STYLE="bubble" TEXT="Twin Flames 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755774266" ID="ID_1556099090" MODIFIED="1471385922465" STYLE="bubble" TEXT="Wyvern Lovers 5">
+<edge STYLE="linear"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755788738" ID="ID_1534901624" MODIFIED="1471385922465" STYLE="bubble" TEXT="Wyvern Strife">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755797129" ID="ID_1223749754" MODIFIED="1471385922464" STYLE="bubble" TEXT="Wyvern Strife 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755808272" ID="ID_786775707" MODIFIED="1471385922464" STYLE="bubble" TEXT="Wyvern Concilation">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755833323" ID="ID_612050441" MODIFIED="1471385922464" STYLE="bubble" TEXT="Talon Carvers">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755840549" ID="ID_1766334131" MODIFIED="1471385922464" STYLE="bubble" TEXT="Talon Carvers 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755849463" ID="ID_1046548627" MODIFIED="1471385922464" STYLE="bubble" TEXT="Talon Carvers 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755860558" ID="ID_1521117418" MODIFIED="1471385922464" STYLE="bubble" TEXT="Talon Carvers 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755866055" ID="ID_1651548078" MODIFIED="1471385922464" STYLE="bubble" TEXT="Talon Carvers 5">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755870246" ID="ID_356616174" MODIFIED="1471385922463" STYLE="bubble" TEXT="Talon Twins">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755890685" ID="ID_1971129060" MODIFIED="1471385922463" STYLE="bubble" TEXT="Plesioth Cutlasses">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755896224" ID="ID_1469602295" MODIFIED="1471385922463" STYLE="bubble" TEXT="Plesioth Cutlasses 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755904679" ID="ID_661187472" MODIFIED="1471385922463" STYLE="bubble" TEXT="Plesioth Cutlasses 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755909387" ID="ID_1358456888" MODIFIED="1471385922463" STYLE="bubble" TEXT="Plesioth Machetes">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755931057" ID="ID_842569861" MODIFIED="1471385922463" STYLE="bubble" TEXT="Firestorm">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755934217" ID="ID_457435383" MODIFIED="1471385922462" STYLE="bubble" TEXT="Firestorm 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755939916" ID="ID_209553591" MODIFIED="1471385922462" STYLE="bubble" TEXT="Volcanic Storm">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755953441" ID="ID_1328781585" MODIFIED="1471385922462" STYLE="bubble" TEXT="Bladed Edges">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755957030" ID="ID_1059213402" MODIFIED="1471385922462" STYLE="bubble" TEXT="Bladed Edges 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755964390" ID="ID_320996439" MODIFIED="1471385922462" STYLE="bubble" TEXT="Bladed Edges 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755967247" ID="ID_1699671281" MODIFIED="1471385922461" STYLE="bubble" TEXT="Bladed Edges 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755972229" ID="ID_282977116" MODIFIED="1471385922461" STYLE="bubble" TEXT="Limb Cutter">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755987393" ID="ID_977945912" MODIFIED="1471385922461" STYLE="bubble" TEXT="Bladed Pincers">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755992317" ID="ID_409643371" MODIFIED="1471385922461" STYLE="bubble" TEXT="Bladed Pincers 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470756006650" ID="ID_1353511840" MODIFIED="1471385922461" STYLE="bubble" TEXT="Feudal Shears">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470756026066" ID="ID_906247791" MODIFIED="1471385922460" STYLE="bubble" TEXT="Hidden Gemini">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470756047421" ID="ID_1704425169" MODIFIED="1471385922460" STYLE="bubble" TEXT="Hidden Gemini 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470756054058" ID="ID_1700216183" MODIFIED="1471385922460" STYLE="bubble" TEXT="Hidden Gemini 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470756057545" ID="ID_1832365643" MODIFIED="1471385922460" STYLE="bubble" TEXT="Hidden Gemini 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470756063097" ID="ID_1896891853" MODIFIED="1471385922460" STYLE="bubble" TEXT="Night Wings">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470756073706" ID="ID_318096118" MODIFIED="1471385922460" STYLE="bubble" TEXT="Crab Horns">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470756079066" ID="ID_421106405" MODIFIED="1471385922460" STYLE="bubble" TEXT="Crab Horns 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471260919595" ID="ID_940100958" MODIFIED="1471385922460" STYLE="bubble" TEXT="Crab Horns 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471260923453" ID="ID_1097452916" MODIFIED="1471385922459" STYLE="bubble" TEXT="Crab Horns 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471260927415" ID="ID_838855430" MODIFIED="1471385922459" STYLE="bubble" TEXT="Lobster Piercers">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1471260938470" ID="ID_56460810" MODIFIED="1471385922459" STYLE="bubble" TEXT="Monarch">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471260941543" ID="ID_1875797582" MODIFIED="1471385922459" STYLE="bubble" TEXT="Monarch 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471260946933" ID="ID_1025997640" MODIFIED="1471385922459" STYLE="bubble" TEXT="Monarch 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471260949002" ID="ID_1216455492" MODIFIED="1471385922459" STYLE="bubble" TEXT="Monarch 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471260952044" ID="ID_1131489459" MODIFIED="1471385922459" STYLE="bubble" TEXT="Kirin Bolts">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1471260962241" ID="ID_1895081146" MODIFIED="1471385922458" STYLE="bubble" TEXT="Cerulean Axes">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471260968130" ID="ID_1196225825" MODIFIED="1471385922458" STYLE="bubble" TEXT="Cerulean Axes 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471260972155" ID="ID_1352475261" MODIFIED="1471385922458" STYLE="bubble" TEXT="Cerulean Axes 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261035332" ID="ID_1678264101" MODIFIED="1471385922458" STYLE="bubble" TEXT="Cerulean Axes 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261040526" ID="ID_1577245541" MODIFIED="1471385922458" STYLE="bubble" TEXT="Cerulean Axes 5">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261046011" ID="ID_90711723" MODIFIED="1471385922458" STYLE="bubble" TEXT="Ashigara Axes 6">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261054787" ID="ID_87723984" MODIFIED="1471385922458" STYLE="bubble" TEXT="Blazeblades">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261058696" ID="ID_1142116203" MODIFIED="1471385922458" STYLE="bubble" TEXT="Blazeblades 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261064908" ID="ID_1734131555" MODIFIED="1471385922457" STYLE="bubble" TEXT="Blazeblades 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261068509" ID="ID_890874030" MODIFIED="1471385922457" STYLE="bubble" TEXT="Blazeblades 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261071749" ID="ID_789537181" MODIFIED="1471385922457" STYLE="bubble" TEXT="Infernal Furies">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261082003" ID="ID_1580303348" MODIFIED="1471385922457" STYLE="bubble" TEXT="Ludroth Pair">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261085889" ID="ID_1049468161" MODIFIED="1471385922457" STYLE="bubble" TEXT="Ludroth Pair 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261091946" ID="ID_692796584" MODIFIED="1471385922457" STYLE="bubble" TEXT="Ludroth Pair 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261096474" ID="ID_1726991679" MODIFIED="1471385922457" STYLE="bubble" TEXT="Ludroth Pair 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261102233" ID="ID_878330908" MODIFIED="1471385922457" STYLE="bubble" TEXT="Double Droth">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261113145" ID="ID_587620264" MODIFIED="1471385922456" STYLE="bubble" TEXT="Twin Acrus 1">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261115908" ID="ID_218037348" MODIFIED="1471385922456" STYLE="bubble" TEXT="Twin Acrus 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261120499" ID="ID_764920563" MODIFIED="1471385922456" STYLE="bubble" TEXT="Twin Acrus 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261122906" ID="ID_699487057" MODIFIED="1471385922456" STYLE="bubble" TEXT="Twin Acrus 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261126391" ID="ID_1108001322" MODIFIED="1471385922456" STYLE="bubble" TEXT="Levin Acrus">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261141784" ID="ID_828279614" MODIFIED="1471385922456" STYLE="bubble" TEXT="Snow Slicers">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261147594" ID="ID_670802449" MODIFIED="1471385922456" STYLE="bubble" TEXT="Snow Slicers 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261153948" ID="ID_1675622422" MODIFIED="1471385922455" STYLE="bubble" TEXT="Snow Slicers 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261157523" ID="ID_586331343" MODIFIED="1471385922455" STYLE="bubble" TEXT="Snow Slicers 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261160795" ID="ID_1631688067" MODIFIED="1471385922455" STYLE="bubble" TEXT="Snow Slicers 5">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261164365" ID="ID_989691406" MODIFIED="1471385922455" STYLE="bubble" TEXT="Snow Sisters">
+<edge STYLE="linear"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261172795" ID="ID_1602519267" MODIFIED="1471385922455" STYLE="bubble" TEXT="Maulagombs">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261176325" ID="ID_1697932647" MODIFIED="1471385922455" STYLE="bubble" TEXT="Maulagombs 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261181330" ID="ID_1506273633" MODIFIED="1471385922455" STYLE="bubble" TEXT="Brawlagombs">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261194611" ID="ID_614050605" MODIFIED="1471385922454" STYLE="bubble" TEXT="Dual Battleaxes">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261200481" ID="ID_685156565" MODIFIED="1471385922454" STYLE="bubble" TEXT="Dual Battleaxes 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261206620" ID="ID_1007739085" MODIFIED="1471385922454" STYLE="bubble" TEXT="Dual Battleaxes 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261211038" ID="ID_1452748130" MODIFIED="1471385922454" STYLE="bubble" TEXT="Dual Battleaxes 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261215682" ID="ID_635413337" MODIFIED="1471385922454" STYLE="bubble" TEXT="Dual Battleaxes 5">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261219635" ID="ID_1857569749" MODIFIED="1471385922454" STYLE="bubble" TEXT="Final Battleaxes">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1471261644994" ID="ID_1581218189" MODIFIED="1471385922454" POSITION="left" STYLE="bubble" TEXT="Giants Daggers">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261649770" ID="ID_1664023616" MODIFIED="1471385922453" STYLE="bubble" TEXT="Giant&apos;s Daggers 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261655819" ID="ID_403326779" MODIFIED="1471385922453" STYLE="bubble" TEXT="Giant&apos;s Daggers 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261661127" ID="ID_1761842317" MODIFIED="1471385922453" STYLE="bubble" TEXT="Giant&apos;s Daggers 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261666661" ID="ID_1242669591" MODIFIED="1471385922453" STYLE="bubble" TEXT="Giant&apos;s Daggers 5">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261673079" ID="ID_738288876" MODIFIED="1471385922453" STYLE="bubble" TEXT="Colossus&apos;s Daggers">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755131202" ID="ID_465103153" MODIFIED="1471385922453" POSITION="left" STYLE="bubble" TEXT="Vprey Claws">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261232778" ID="ID_1634833668" MODIFIED="1471385922453" STYLE="bubble" TEXT="Vprey Claws">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261238623" ID="ID_227420107" MODIFIED="1471385922452" STYLE="bubble" TEXT="Vprey Claws 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261242400" ID="ID_634806933" MODIFIED="1471385922452" STYLE="bubble" TEXT="Vprey Claws 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261248229" ID="ID_53918235" MODIFIED="1471385922452" STYLE="bubble" TEXT="Vprey Claws 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261252436" ID="ID_890505933" MODIFIED="1471385922452" STYLE="bubble" TEXT="High Vprey Claws">
+<edge STYLE="linear"/>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1471261311888" ID="ID_1773333093" MODIFIED="1471385922452" STYLE="bubble" TEXT="Whirlitwists">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261321483" ID="ID_1840925162" MODIFIED="1471385922452" STYLE="bubble" TEXT="Whirlitwists 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261328294" ID="ID_980471734" MODIFIED="1471385922452" STYLE="bubble" TEXT="Whirlitwists 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261333502" ID="ID_984317466" MODIFIED="1471385922451" STYLE="bubble" TEXT="Whirlitricks">
+<edge STYLE="linear"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261348586" ID="ID_1749337558" MODIFIED="1471385922451" STYLE="bubble" TEXT="Whirlitorture">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261365620" ID="ID_1082996560" MODIFIED="1471385922451" STYLE="bubble" TEXT="Whirlitorture">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261352447" ID="ID_1329890149" MODIFIED="1471385922451" STYLE="bubble" TEXT="Gyro Wedges">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261264039" ID="ID_179191069" MODIFIED="1471385922451" STYLE="bubble" TEXT="Snow Venom">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261273976" ID="ID_1432386136" MODIFIED="1471385922450" STYLE="bubble" TEXT="Snow Venom 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261282800" ID="ID_1418982096" MODIFIED="1471385922450" STYLE="bubble" TEXT="Snow Vemon 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261287545" ID="ID_842163578" MODIFIED="1471385922450" STYLE="bubble" TEXT="Snow Vemon 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261291660" ID="ID_465901016" MODIFIED="1471385922450" STYLE="bubble" TEXT="Glacial Medusa">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1471261387848" ID="ID_1361888543" MODIFIED="1471385922450" STYLE="bubble" TEXT="Kut-Ku Pair">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261398467" ID="ID_344998050" MODIFIED="1471385922450" STYLE="bubble" TEXT="Kut-ku Pair 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261405603" ID="ID_335486032" MODIFIED="1471385922450" STYLE="bubble" TEXT="Kut-ku Pair 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261409583" ID="ID_298841279" MODIFIED="1471385922449" STYLE="bubble" TEXT="Kut-ku Pair 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261451643" ID="ID_494215582" MODIFIED="1471385922449" STYLE="bubble" TEXT="Kut-ku Pair 5">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261455869" ID="ID_968529860" MODIFIED="1471385922449" STYLE="bubble" TEXT="Dual Kut-ku">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261464301" ID="ID_1168976392" MODIFIED="1471385922449" STYLE="bubble" TEXT="Raven Tessen">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261467701" ID="ID_1073957928" MODIFIED="1471385922449" STYLE="bubble" TEXT="Raven Tessen 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261473975" ID="ID_241610544" MODIFIED="1471385922449" STYLE="bubble" TEXT="Raven Tessen 3">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261479529" ID="ID_442900091" MODIFIED="1471385922449" STYLE="bubble" TEXT="Raven Tessen 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261484754" ID="ID_1707244356" MODIFIED="1471385922448" STYLE="bubble" TEXT="Wolf Tessen">
+<edge STYLE="linear"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261496646" ID="ID_470809550" MODIFIED="1471385922448" STYLE="bubble" TEXT="Wicked Tessen">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261506288" ID="ID_451449990" MODIFIED="1471385922448" STYLE="bubble" TEXT="Wicked Tessen 2">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261500139" ID="ID_891906840" MODIFIED="1471385922448" STYLE="bubble" TEXT="Garuga Gunsen">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755142164" ID="ID_746979588" MODIFIED="1471385922448" POSITION="left" STYLE="bubble" TEXT="Morning Dawn ">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261722730" ID="ID_1281933462" MODIFIED="1471385922448" STYLE="bubble" TEXT="Morning Dawn 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261730256" ID="ID_453638317" MODIFIED="1471385922448" STYLE="bubble" TEXT="Morning Dawn 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261726087" ID="ID_1370500758" MODIFIED="1471385922447" STYLE="bubble" TEXT="Morning Dawn 4">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261748077" ID="ID_1118178671" MODIFIED="1471385922447" STYLE="bubble" TEXT="Morning Dawn 5">
+<edge STYLE="linear"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1471261751726" ID="ID_211555267" MODIFIED="1471385922447" STYLE="bubble" TEXT="Evening Dusk 6">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755187362" ID="ID_667914922" MODIFIED="1471385922447" POSITION="left" STYLE="bubble" TEXT="Wrath &amp; Rancor">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471382135006" ID="ID_355480324" MODIFIED="1471385922447" STYLE="bubble" TEXT="Wrath &amp; Rancor 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471382140490" ID="ID_1750266814" MODIFIED="1471385922447" STYLE="bubble" TEXT="Wrathful Predation">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1471382147013" ID="ID_1898179244" MODIFIED="1471385922447" STYLE="bubble" TEXT="Consummate Pair">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471382152761" ID="ID_1136860195" MODIFIED="1471385922447" STYLE="bubble" TEXT="Consummate Pair 2">
+<edge STYLE="linear"/>
+<node CREATED="1471382163799" ID="ID_1529434537" MODIFIED="1471385922446" STYLE="bubble" TEXT="Doomfang &quot;Envoys&quot;">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755199907" ID="ID_303375017" MODIFIED="1471385922446" POSITION="left" STYLE="bubble" TEXT="Chasm Blades">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471382194078" ID="ID_1041348518" MODIFIED="1471385922446" STYLE="bubble" TEXT="Chasm Blades 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471382197847" ID="ID_206966840" MODIFIED="1471385922446" STYLE="bubble" TEXT="Chasm Blades 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471382201188" ID="ID_1056129114" MODIFIED="1471385922446" STYLE="bubble" TEXT="Chasm Blades 4">
+<edge STYLE="linear"/>
+<node CREATED="1471382205611" ID="ID_1467970870" MODIFIED="1471385922446" STYLE="bubble" TEXT="Abyss Blades 5">
+<edge STYLE="linear"/>
+</node>
+</node>
+<node CREATED="1471382222257" ID="ID_340528209" MODIFIED="1471385922446" STYLE="bubble" TEXT="Astral Gemini">
+<edge STYLE="linear"/>
+<node CREATED="1471382228673" ID="ID_212682687" MODIFIED="1471385922446" STYLE="bubble" TEXT="Astral Gemini 2">
+<edge STYLE="linear"/>
+<node CREATED="1471382232972" ID="ID_512720124" MODIFIED="1471385922445" STYLE="bubble" TEXT="Ecstatic Gemini">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755207135" ID="ID_810384134" MODIFIED="1471385922445" POSITION="left" STYLE="bubble" TEXT="Akantor Blades">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471382909250" ID="ID_1207571502" MODIFIED="1471385922445" STYLE="bubble" TEXT="Akantor Blades 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471382913758" ID="ID_851922317" MODIFIED="1471385922445" STYLE="bubble" TEXT="Akantor Shadow Claws">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755210816" ID="ID_142571573" MODIFIED="1471385922445" POSITION="left" STYLE="bubble" TEXT="Ukanlos Ruinblades">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471382926865" ID="ID_461115836" MODIFIED="1471385922445" STYLE="bubble" TEXT="Ukanlos Ruinblades 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471382931391" ID="ID_282238580" MODIFIED="1471385922445" STYLE="bubble" TEXT="Ukanlos Skyrippers 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755293682" ID="ID_434820367" MODIFIED="1471385922445" POSITION="left" STYLE="bubble" TEXT="White Dango">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384049329" ID="ID_1352257488" MODIFIED="1471385922445" STYLE="bubble" TEXT="White Dango 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384054151" ID="ID_1408719983" MODIFIED="1471385922444" STYLE="bubble" TEXT="White Dango 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384057880" ID="ID_338222078" MODIFIED="1471385922444" STYLE="bubble" TEXT="Sublime Dango">
+<edge STYLE="linear"/>
+</node>
+</node>
+<node CREATED="1471384067378" ID="ID_1657336258" MODIFIED="1471385922444" STYLE="bubble" TEXT="Spicy Dango">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384072818" ID="ID_143176298" MODIFIED="1471385922444" STYLE="bubble" TEXT="Spicy Dango 2">
+<edge STYLE="linear"/>
+<node CREATED="1471384073158" ID="ID_609256858" MODIFIED="1471385922444" STYLE="bubble" TEXT="Red Hot Dango">
+<edge STYLE="linear"/>
+</node>
+</node>
+<node CREATED="1471384091339" ID="ID_717302303" MODIFIED="1471385922444" STYLE="bubble" TEXT="Tengu Dango">
+<edge STYLE="linear"/>
+<node CREATED="1471384094691" ID="ID_1335038318" MODIFIED="1471385922444" STYLE="bubble" TEXT="Tengu Dango 2">
+<edge STYLE="linear"/>
+<node CREATED="1471384099941" ID="ID_1774464240" MODIFIED="1471385922443" STYLE="bubble" TEXT="Devil Dango">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755299476" ID="ID_1151562349" MODIFIED="1471385922443" POSITION="left" STYLE="bubble" TEXT="Glutton&apos;s Tools">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384109921" ID="ID_710087197" MODIFIED="1471385922443" STYLE="bubble" TEXT="Glutton&apos;s Tools 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384115316" ID="ID_1073019736" MODIFIED="1471385922443" STYLE="bubble" TEXT="Glutton&apos;s Tools 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384121502" ID="ID_1631104987" MODIFIED="1471385922443" STYLE="bubble" TEXT="Gorger&apos;s Tools">
+<edge STYLE="linear"/>
+</node>
+<node CREATED="1471384128648" ID="ID_181382958" MODIFIED="1471385922443" STYLE="bubble" TEXT="Stewbry Stirfoils">
+<edge STYLE="linear"/>
+<node CREATED="1471384139297" ID="ID_1021795952" MODIFIED="1471385922443" STYLE="bubble" TEXT="Stewbry Stirfoils 2">
+<edge STYLE="linear"/>
+<node CREATED="1471384147031" ID="ID_45016405" MODIFIED="1471385922442" STYLE="bubble" TEXT="Deepshake Frybakers">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755321629" ID="ID_1162768659" MODIFIED="1471385922442" POSITION="left" STYLE="bubble" TEXT="Felyne and Melynx">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384383976" ID="ID_308454450" MODIFIED="1471385922442" STYLE="bubble" TEXT="Felyne and Melynx 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384389675" ID="ID_189769012" MODIFIED="1471385922442" STYLE="bubble" TEXT="Felyne and Melynx DX">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755331173" ID="ID_1956377742" MODIFIED="1471385922442" POSITION="left" STYLE="bubble" TEXT="Felyne Claws">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384413446" ID="ID_952757999" MODIFIED="1471385922442" STYLE="bubble" TEXT="Felyne Claws">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384417822" ID="ID_769379446" MODIFIED="1471385922442" STYLE="bubble" TEXT="Raging Claws">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755351817" ID="ID_92118498" MODIFIED="1471385922442" POSITION="left" STYLE="bubble" TEXT="Blackhare Daggers">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384650068" ID="ID_1470786596" MODIFIED="1471385922441" STYLE="bubble" TEXT="Blackhare Daggers 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384655915" ID="ID_954037053" MODIFIED="1471385922441" STYLE="bubble" TEXT="Blackhare Daggers 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384659830" ID="ID_123008838" MODIFIED="1471385922441" STYLE="bubble" TEXT="Blackhare Daggers 4">
+<edge STYLE="linear"/>
+<node CREATED="1471384663508" ID="ID_1996357367" MODIFIED="1471385922441" STYLE="bubble" TEXT="Blackhare Daggers 5">
+<edge STYLE="linear"/>
+<node CREATED="1471384668040" ID="ID_1071047013" MODIFIED="1471385922441" STYLE="bubble" TEXT="Blackhare Daggers 6">
+<edge STYLE="linear"/>
+<node CREATED="1471384672515" ID="ID_1515275046" MODIFIED="1471385922441" STYLE="bubble" TEXT="Blackhare Daggers 7">
+<edge STYLE="linear"/>
+<node CREATED="1471384677110" ID="ID_1743625194" MODIFIED="1471385922441" STYLE="bubble" TEXT="Blackhare Daggers 8">
+<edge STYLE="linear"/>
+<node CREATED="1471384680566" ID="ID_324883436" MODIFIED="1471385922440" STYLE="bubble" TEXT="Blackhare Daggers 9">
+<edge STYLE="linear"/>
+<node CREATED="1471384684610" ID="ID_1771704616" MODIFIED="1471385922440" STYLE="bubble" TEXT="Snowbaron Dual Blades">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755359358" ID="ID_768159123" MODIFIED="1471385922440" POSITION="left" STYLE="bubble" TEXT="Pincher Daggers">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384845115" ID="ID_301804340" MODIFIED="1471385922440" STYLE="bubble" TEXT="Pincher Daggers 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384848312" ID="ID_766518724" MODIFIED="1471385922440" STYLE="bubble" TEXT="Pincher Daggers 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384851932" ID="ID_975404419" MODIFIED="1471385922440" STYLE="bubble" TEXT="Pincher Daggers 4">
+<edge STYLE="linear"/>
+<node CREATED="1471384855177" ID="ID_51656461" MODIFIED="1471385922440" STYLE="bubble" TEXT="Pincher Daggers 5">
+<edge STYLE="linear"/>
+<node CREATED="1471384860294" ID="ID_1616541503" MODIFIED="1471385922439" STYLE="bubble" TEXT="Pincher Daggers 6">
+<edge STYLE="linear"/>
+<node CREATED="1471384864083" ID="ID_1806803972" MODIFIED="1471385922439" STYLE="bubble" TEXT="Pincher Daggers 7">
+<edge STYLE="linear"/>
+<node CREATED="1471384868064" ID="ID_1279446257" MODIFIED="1471385922439" STYLE="bubble" TEXT="Pincher Daggers 8">
+<edge STYLE="linear"/>
+<node CREATED="1471384871465" ID="ID_74522837" MODIFIED="1471385922439" STYLE="bubble" TEXT="Pincher Daggers 9">
+<edge STYLE="linear"/>
+<node CREATED="1471384875288" ID="ID_804930527" MODIFIED="1471385922439" STYLE="bubble" TEXT="Stonefist Daggers">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755379956" ID="ID_506972155" MODIFIED="1471385922439" POSITION="left" STYLE="bubble" TEXT="Hardened Daggers">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471385195890" ID="ID_437150654" MODIFIED="1471385922438" STYLE="bubble" TEXT="...">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471385196737" ID="ID_1176113301" MODIFIED="1471385922438" STYLE="bubble" TEXT="Deadeye Daggers">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755386325" ID="ID_233793389" MODIFIED="1471385922438" POSITION="left" STYLE="bubble" TEXT="Raiden Daggers">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#ffffff" CREATED="1470755391799" ID="ID_1688199745" MODIFIED="1471385922438" STYLE="bubble" TEXT="...">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471385173573" ID="ID_101655118" MODIFIED="1471385922438" STYLE="bubble" TEXT="Thunderlord Daggers">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755406179" ID="ID_206181492" MODIFIED="1471385922438" POSITION="left" STYLE="bubble" TEXT="Pirate Edges J">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471385042582" ID="ID_624020163" MODIFIED="1471385922438" STYLE="bubble" TEXT="Pirate Edges J 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471385048640" ID="ID_1821746137" MODIFIED="1471385922437" STYLE="bubble" TEXT="Buccaneer Edges J">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755412548" ID="ID_1552434564" MODIFIED="1471385922437" POSITION="left" STYLE="bubble" TEXT="Exploding Blades">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471385068321" ID="ID_135751050" MODIFIED="1471385922437" STYLE="bubble" TEXT="Exploding Blades 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471385071874" ID="ID_714917812" MODIFIED="1471385922437" STYLE="bubble" TEXT="True Exploding Blades">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755434265" ID="ID_1011216201" MODIFIED="1471385922437" POSITION="left" STYLE="bubble" TEXT="Fan Club Fans">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471385114556" ID="ID_367363038" MODIFIED="1471385922437" STYLE="bubble" TEXT="Fan Club Fans 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471385120092" ID="ID_220795028" MODIFIED="1471385922437" STYLE="bubble" TEXT="Fan Club Deluxe Fans 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755438573" ID="ID_654991761" MODIFIED="1471385922437" POSITION="left" STYLE="bubble" TEXT="Light Sword Cypher">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471385128143" ID="ID_727852363" MODIFIED="1471385922436" STYLE="bubble" TEXT="Light Sword Cypher 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471385133875" ID="ID_1868389825" MODIFIED="1471385922436" STYLE="bubble" TEXT="Light Sword Cypher X">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755219280" ID="ID_928160444" MODIFIED="1471385922436" POSITION="right" STYLE="bubble" TEXT="Stormwind Fans">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471382949908" ID="ID_1479398297" MODIFIED="1471385922436" STYLE="bubble" TEXT="Stormwind Fans 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471382954841" ID="ID_1145957426" MODIFIED="1471385922436" STYLE="bubble" TEXT="Heavenwind Fans">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755229178" ID="ID_525666786" MODIFIED="1471385922436" POSITION="right" STYLE="bubble" TEXT="Worn Blades">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471382984216" ID="ID_1588251095" MODIFIED="1471385922435" STYLE="bubble" TEXT="Worn Blades 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471382987589" ID="ID_249114572" MODIFIED="1471385922435" STYLE="bubble" TEXT="Worn Blades 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471382990031" ID="ID_922693420" MODIFIED="1471385922435" STYLE="bubble" TEXT="Worn Blades 4">
+<edge STYLE="linear"/>
+<node CREATED="1471382993214" ID="ID_54727720" MODIFIED="1471385922435" STYLE="bubble" TEXT="Weathered Blades ">
+<edge STYLE="linear"/>
+</node>
+</node>
+<node CREATED="1471383006896" ID="ID_900796465" MODIFIED="1471385922435" STYLE="bubble" TEXT="Enduring Schism">
+<edge STYLE="linear"/>
+<node CREATED="1471383010973" ID="ID_1818674576" MODIFIED="1471385922435" STYLE="bubble" TEXT="Enduring SChism 2">
+<edge STYLE="linear"/>
+<node CREATED="1471383014200" ID="ID_28080277" MODIFIED="1471385922435" STYLE="bubble" TEXT="Enduring Sacrifice">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+<node CREATED="1471383030119" ID="ID_1964356102" MODIFIED="1471385922434" STYLE="bubble" TEXT="Hi Twin Daggers">
+<edge STYLE="linear"/>
+<node CREATED="1471383034382" ID="ID_1353655945" MODIFIED="1471385922434" STYLE="bubble" TEXT="Hi Twin Daggers 2">
+<edge STYLE="linear"/>
+<node CREATED="1471383038017" ID="ID_923446765" MODIFIED="1471385922434" STYLE="bubble" TEXT="Silhouette Sabers">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755232673" ID="ID_600656416" MODIFIED="1471385922434" POSITION="right" STYLE="bubble" TEXT="Black Twin Daggers">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471383348850" ID="ID_1755653761" MODIFIED="1471385922434" STYLE="bubble" TEXT="Black Twin Daggers 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471383354250" ID="ID_444474628" MODIFIED="1471385922434" STYLE="bubble" TEXT="Black Twin Daggers 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471383360475" ID="ID_1005510091" MODIFIED="1471385922434" STYLE="bubble" TEXT="Black Twin Daggers 4">
+<edge STYLE="linear"/>
+<node CREATED="1471383364542" ID="ID_672269731" MODIFIED="1471385922434" STYLE="bubble" TEXT="Chrono Twin Daggers 5">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755242171" ID="ID_606044444" MODIFIED="1471385922433" POSITION="right" STYLE="bubble" TEXT="Yukumo Duo">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471383435512" ID="ID_652764149" MODIFIED="1471385922433" STYLE="bubble" TEXT="Yukumo Duo 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471383441097" ID="ID_1268559961" MODIFIED="1471385922433" STYLE="bubble" TEXT="Yukumo Duo 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471383445978" ID="ID_63510541" MODIFIED="1471385922433" STYLE="bubble" TEXT="Yukumo Duo 4">
+<edge STYLE="linear"/>
+<node CREATED="1471383452074" ID="ID_38213904" MODIFIED="1471385922433" STYLE="bubble" TEXT="Yukumo Slicers 5">
+<edge STYLE="linear"/>
+</node>
+</node>
+<node CREATED="1471383460774" ID="ID_1765444096" MODIFIED="1471385922433" STYLE="bubble" TEXT="Pure Yukumo Duo">
+<edge STYLE="linear"/>
+<node CREATED="1471383466454" ID="ID_942284798" MODIFIED="1471385922433" STYLE="bubble" TEXT="Pure Yukumo Duo 2">
+<edge STYLE="linear"/>
+<node CREATED="1471383473798" ID="ID_152677719" MODIFIED="1471385922433" STYLE="bubble" TEXT="Pure Yukumo Duo 3">
+<edge STYLE="linear"/>
+<node CREATED="1471383478175" ID="ID_557256447" MODIFIED="1471385922432" STYLE="bubble" TEXT="Divine Yukumo Duo">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755246453" ID="ID_720332643" MODIFIED="1471385922432" POSITION="right" STYLE="bubble" TEXT="Wycademy Blades">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471383877714" ID="ID_1755200727" MODIFIED="1471385922432" STYLE="bubble" TEXT="Wycademy Blades 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471383882774" ID="ID_885981160" MODIFIED="1471385922432" STYLE="bubble" TEXT="Wycademy Blades 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471383886663" ID="ID_503629202" MODIFIED="1471385922432" STYLE="bubble" TEXT="Historia Edges">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755256359" ID="ID_1296214001" MODIFIED="1471385922432" POSITION="right" STYLE="bubble" TEXT="Heroic Twins">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471383904721" ID="ID_1334428695" MODIFIED="1471385922432" STYLE="bubble" TEXT="Heroic Twins 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471383907782" ID="ID_1493007394" MODIFIED="1471385922432" STYLE="bubble" TEXT="Heroic Twins 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471383912887" ID="ID_520789920" MODIFIED="1471385922431" STYLE="bubble" TEXT="Legendary Twins">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755261642" ID="ID_1243107611" MODIFIED="1471385922431" POSITION="right" STYLE="bubble" TEXT="Guild Knight Sabers">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471383924432" ID="ID_1473382521" MODIFIED="1471385922431" STYLE="bubble" TEXT="Guild Knight Sabers 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471383929101" ID="ID_394945831" MODIFIED="1471385922431" STYLE="bubble" TEXT="Master Sabers">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755280115" ID="ID_1324466159" MODIFIED="1471385922431" POSITION="right" STYLE="bubble" TEXT="Addled Beers">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384013303" ID="ID_1862985861" MODIFIED="1471385922431" STYLE="bubble" TEXT="Addled Beers 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384017855" ID="ID_156202885" MODIFIED="1471385922431" STYLE="bubble" TEXT="Addled Beers 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384021769" ID="ID_808382759" MODIFIED="1471385922431" STYLE="bubble" TEXT="Potent Lagers">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755285917" ID="ID_90413153" MODIFIED="1471385922431" POSITION="right" STYLE="bubble" TEXT="Pokke Mittens">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384028594" ID="ID_1988084153" MODIFIED="1471385922430" STYLE="bubble" TEXT="Pokke Mottens 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384033020" ID="ID_691522071" MODIFIED="1471385922430" STYLE="bubble" TEXT="Pokke Mittens 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384036529" ID="ID_1919311298" MODIFIED="1471385922430" STYLE="bubble" TEXT="Toasty Mittens">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755309458" ID="ID_1580128745" MODIFIED="1471385922430" POSITION="right" STYLE="bubble" TEXT="Qornu Waga">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384352254" ID="ID_1155343651" MODIFIED="1471385922430" STYLE="bubble" TEXT="Qornu Waga 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384356428" ID="ID_1281699115" MODIFIED="1471385922430" STYLE="bubble" TEXT="Qornu Waga 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384360840" ID="ID_600063937" MODIFIED="1471385922430" STYLE="bubble" TEXT="Ro Waga 4">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755315243" ID="ID_1731684258" MODIFIED="1471385922429" POSITION="right" STYLE="bubble" TEXT="Shaka Scarecrows">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384366642" ID="ID_31196179" MODIFIED="1471385922429" STYLE="bubble" TEXT="Shaka Scarecrows 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384372697" ID="ID_1339451729" MODIFIED="1471385922429" STYLE="bubble" TEXT="Chum Scarecrows 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755341478" ID="ID_247098817" MODIFIED="1471385922429" POSITION="right" STYLE="bubble" TEXT="Daora Blades">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384431357" ID="ID_866559615" MODIFIED="1471385922429" STYLE="bubble" TEXT="Daora Blades 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384434330" ID="ID_1976608106" MODIFIED="1471385922429" STYLE="bubble" TEXT="Daora Blades 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384438818" ID="ID_1233575384" MODIFIED="1471385922429" STYLE="bubble" TEXT="Gargouille Wings">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755344886" ID="ID_1885971488" MODIFIED="1471385922428" POSITION="right" STYLE="bubble" TEXT="Crimson Daggers">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384568878" ID="ID_1187100547" MODIFIED="1471385922428" STYLE="bubble" TEXT="Crimson Daggers 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384572466" ID="ID_94307169" MODIFIED="1471385922428" STYLE="bubble" TEXT="Crimson Daggers 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471384577827" ID="ID_1617710460" MODIFIED="1471385922428" STYLE="bubble" TEXT="Crimson Daggers 4">
+<edge STYLE="linear"/>
+<node CREATED="1471384581509" ID="ID_222712906" MODIFIED="1471385922428" STYLE="bubble" TEXT="Crimson Daggers 5">
+<edge STYLE="linear"/>
+<node CREATED="1471384585812" ID="ID_1303700180" MODIFIED="1471385922428" STYLE="bubble" TEXT="Crimson Daggers 6">
+<edge STYLE="linear"/>
+<node CREATED="1471384589847" ID="ID_1367748945" MODIFIED="1471385922428" STYLE="bubble" TEXT="Crimson Daggers 7">
+<edge STYLE="linear"/>
+<node CREATED="1471384594253" ID="ID_1674439063" MODIFIED="1471385922427" STYLE="bubble" TEXT="Crimson Daggers 8">
+<edge STYLE="linear"/>
+<node CREATED="1471384612686" ID="ID_231905205" MODIFIED="1471385922427" STYLE="bubble" TEXT="Crimson Daggers 9">
+<edge STYLE="linear"/>
+<node CREATED="1471384617605" ID="ID_1997160756" MODIFIED="1471385922427" STYLE="bubble" TEXT="Redhelm Daggers">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755364999" ID="ID_1494281379" MODIFIED="1471385922427" POSITION="right" STYLE="bubble" TEXT="Royal Daggers">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471385242155" ID="ID_125838698" MODIFIED="1471385922427" STYLE="bubble" TEXT="...">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471385243262" ID="ID_498747086" MODIFIED="1471385922427" STYLE="bubble" TEXT="Dreadqueen Daggers">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755371718" ID="ID_37527291" MODIFIED="1471385922427" POSITION="right" STYLE="bubble" TEXT="Nightfall Daggers">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471385231766" ID="ID_106524113" MODIFIED="1471385922427" STYLE="bubble" TEXT="...">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471385233637" ID="ID_42974550" MODIFIED="1471385922426" STYLE="bubble" TEXT="Silverwind Daggers">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755394914" ID="ID_931624520" MODIFIED="1471385922426" POSITION="right" STYLE="bubble" TEXT="Seize Slicers">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471385213446" ID="ID_101768075" MODIFIED="1471385922426" STYLE="bubble" TEXT="...">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471385214719" ID="ID_1863444592" MODIFIED="1471385922426" STYLE="bubble" TEXT="Grimclaw Blood">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755401597" ID="ID_1341489757" MODIFIED="1471385922426" POSITION="right" STYLE="bubble" TEXT="Enflamed Slicers">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471385156226" ID="ID_1166576690" MODIFIED="1471385922426" STYLE="bubble" TEXT="...">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471385157893" ID="ID_1454796327" MODIFIED="1471385922426" STYLE="bubble" TEXT="Charred Slicers">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755420716" ID="ID_88993941" MODIFIED="1471385922425" POSITION="right" STYLE="bubble" TEXT="Baki Combat Jutsu">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471385077827" ID="ID_815113093" MODIFIED="1471385922425" STYLE="bubble" TEXT="Baki Combat Jutsu 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471385082833" ID="ID_1393059754" MODIFIED="1471385922425" STYLE="bubble" TEXT="Baki Combat Jutsu X ">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1470755426492" ID="ID_111823540" MODIFIED="1471385922425" POSITION="right" STYLE="bubble" TEXT="Twin Star Blades">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471385096556" ID="ID_1193270989" MODIFIED="1471385922425" STYLE="bubble" TEXT="Twin Star Blades 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471385100747" ID="ID_44541775" MODIFIED="1471385922425" STYLE="bubble" TEXT="Eternal Star Blades">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1471385317433" ID="ID_1484450949" MODIFIED="1471385922425" POSITION="right" STYLE="bubble" TEXT="Suzuka Takamaru">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471385324704" ID="ID_1364902669" MODIFIED="1471385922425" STYLE="bubble" TEXT="Zusuka Takamaru 2">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471385329633" ID="ID_1265016586" MODIFIED="1471385922424" STYLE="bubble" TEXT="Suzuka Takamaru 3">
+<edge STYLE="linear"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1471385336117" ID="ID_1665990344" MODIFIED="1471385922423" STYLE="bubble" TEXT="Suzuka Otakemaru">
+<edge STYLE="linear"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</map>
